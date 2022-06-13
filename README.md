@@ -1,4 +1,4 @@
-# Word_Embeddings
+# Word Embeddings
 Word embedding is a technique where individual words of a domain or language are represented as real-valued vectors in a lower dimensional space. Word embeddings are considered to be one of the successful applications of unsupervised learning at present. They do not require any annotated corpora. Embeddings use a lower-dimensional space while preserving semantic relationships.
 Some popular word embedding methods to extract features from text are:
 
